@@ -19,8 +19,7 @@ Bot:"Asshole."
 Bot:The Last Sucker
 ```
 <br>
-<br>
-<br>
+
 # Credits
 This chatbot uses a small subset of the [comments made available by /u/Stuck_In_the_Matrix](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment) as it's dataset.
 Specifcally all the reddit comments for the month of October 2007. The chatbot is quite slow, taking up to a minute to respond on my i3 processor.
