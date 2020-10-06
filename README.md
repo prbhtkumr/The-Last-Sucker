@@ -31,5 +31,5 @@ The larger the dataset the better the replies, but longer the response time.
 <br>
 Run it using 
 ```
-<python3 The_Last_Sucker.py>
+python3 The_Last_Sucker.py
 ```
