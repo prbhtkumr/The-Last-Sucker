@@ -1,5 +1,5 @@
 # The-Last-"Asshole"-Sucker 
-## Yes, that's what it said its name is.
+## Yes, that's what it said it's name is.
 ### A chat bot based on reddit comments, slow to respond and difficult to hold a conversion with.
 
 ```
