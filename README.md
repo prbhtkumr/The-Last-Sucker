@@ -29,4 +29,4 @@ It works by finding the similarity between the text given to it and all the comm
 It then finds the most similar comment that has replies and prints out the highest rated reply.
 The larger the dataset the better the replies, but longer the response time.
 <br>
-Run it using `python3 The_Last_Sucker.py`
+Run it using `<python3 The_Last_Sucker.py>`
